@@ -1,0 +1,6 @@
+﻿  Cell.cpp
+  Game.cpp
+  Player.cpp
+  Main.cpp
+C:\Users\Amirsz\source\repos\GameTehLab\GameTehLab\Game.h(2,10): fatal error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
+C:\Users\Amirsz\source\repos\GameTehLab\GameTehLab\Game.h(2,10): fatal error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
